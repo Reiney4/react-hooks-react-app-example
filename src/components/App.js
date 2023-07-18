@@ -15,7 +15,7 @@ function App() {
       </p>
       
       <ExampleComponent />
-      <ExampleComponent />
+      <TestComponent />
 
     </div>
   );
